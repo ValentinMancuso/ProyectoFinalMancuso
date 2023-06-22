@@ -1,0 +1,86 @@
+[
+  {
+    "prenda": "remera",
+    "equipo": "velez",
+    "color": "blanco",
+    "precio": 23799,
+    "id": 1
+  },
+  {
+    "prenda": "remera",
+    "equipo": "boca",
+    "color": "azul",
+    "precio": 28999,
+    "id": 2
+  },
+  {
+    "prenda": "remera",
+    "equipo": "river",
+    "color": "blanco",
+    "precio": 28999,
+    "id": 3
+  },
+  {
+    "prenda": "remera",
+    "equipo": "racing",
+    "color": "celeste",
+    "precio": 24999,
+    "id": 4
+  },
+  {
+    "prenda": "remera",
+    "equipo": "independiente",
+    "color": "rojo",
+    "precio": 17999,
+    "id": 5
+  },
+  {
+    "prenda": "remera",
+    "equipo": "estudiantes",
+    "color": "rojo",
+    "precio": 19499,
+    "id": 6
+  },
+  {
+    "prenda": "short",
+    "equipo": "velez",
+    "color": "azul",
+    "precio": 6799,
+    "id": 7
+  },
+  {
+    "prenda": "short",
+    "equipo": "boca",
+    "color": "azul",
+    "precio": 16999,
+    "id": 8
+  },
+  {
+    "prenda": "short",
+    "equipo": "river",
+    "color": "negro",
+    "precio": 16999,
+    "id": 9
+  },
+  {
+    "prenda": "short",
+    "equipo": "racing",
+    "color": "negro",
+    "precio": 14199,
+    "id": 10
+  },
+  {
+    "prenda": "short",
+    "equipo": "independiente",
+    "color": "rojo",
+    "precio": 13999,
+    "id": 11
+  },
+  {
+    "prenda": "short",
+    "equipo": "estudiantes",
+    "color": "rojo",
+    "precio": 12999,
+    "id": 12
+  }
+]
